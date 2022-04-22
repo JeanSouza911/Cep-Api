@@ -14,6 +14,7 @@ JavaScript
 
 ## Layout:
 
+![Web](https://github.com/JeanSouza911/Cep-Api/blob/master/img/cep.png)
 
 # Autor:
 
